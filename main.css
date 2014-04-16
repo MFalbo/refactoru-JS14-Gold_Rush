@@ -1,0 +1,10 @@
+.container{
+	position: relative;
+}
+
+.pointer{
+	height: 50px;
+	width: 50px;
+	background-color: #F00;
+	border-radius: 50px;
+}
